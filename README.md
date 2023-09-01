@@ -1,2 +1,1 @@
-# Robo2.0
-Text to speech 
+Here are some of the simple codes that i've written in Python .
